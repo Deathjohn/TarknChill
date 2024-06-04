@@ -27,6 +27,7 @@ BepInEx/*
 # BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
 
 # mod ignore list
+User/Mods/TarknChill/user/mods/MPT-UPDATER-main/*
 
 #Include User/Mods/
 !User
