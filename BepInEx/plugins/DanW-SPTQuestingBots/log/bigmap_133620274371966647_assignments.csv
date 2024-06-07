@@ -1,0 +1,10 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot24,"Valens",normal,19,Completed,"Wanderer","Zone bomj_place","2","22:11:27","22:13:15",
+Bot24,"Valens",normal,19,Failed,"Tigr Safari","Zone place_peacemaker_002_N1","1","22:13:21","22:15:26",
+Bot25,"Choccy",normal,72,Failed,"Repair Shop","Repair Shop: Objective #4","1","22:11:27","22:14:43",
+Bot26,"Lavax",normal,51,Active,"Boss Hunter","Spawn Point (581.8 3.1 0.9)","1","22:11:28","N/A",
+Bot27,"Cannuccia",normal,37,Pending,"Boss Hunter","Spawn Point (581.8 3.1 0.9)","1","22:11:29","N/A",
+Bot30,"MechanicMan396",normal,38,Failed,"Wanderer","Zone bomj_place","1","22:11:29","22:15:16",
+Bot29,"Pettan",normal,13,Failed,"BP Depot","Zone fuel1","1","22:11:29","22:14:25",
+Bot28,"Ninjaweb",normal,53,Completed,"Substation","Substation: Objective #4","1","22:11:30","22:11:34",
+Bot28,"Ninjaweb",normal,53,Pending,"Substation","Substation: Objective #3","1","22:11:39","N/A",

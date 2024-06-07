@@ -1,0 +1,13 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"TimmyGG",normal,16,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","16:32:14","16:32:34",
+Bot1,"TimmyGG",normal,16,Completed,"Mira Avenue Benches","Mira Avenue Benches: Objective #1","1","16:32:39","16:33:56",
+Bot1,"TimmyGG",normal,16,Failed,"Mira Avenue Benches","Mira Avenue Benches: Objective #2","1","16:34:01","16:35:34",
+Bot2,"ColonelPeePantz",normal,52,Failed,"Saving the Mole","Zone Sandbox_5_Office_exploration","1","16:32:16","16:32:37",
+Bot2,"ColonelPeePantz",normal,52,Active,"Saving the Mole","Zone Sandbox_5_Laborant_exploration","1","16:32:43","N/A",
+Bot6,"Bulld0z3r",normal,60,Active,"Underground Entrance","Underground Entrance: Objective #3","1","16:32:19","N/A",
+Bot7,"Borkel",normal,15,Failed,"Boss Hunter","Spawn Point (130.6 14.1 63.1)","1","16:32:20","16:34:31",
+Bot8,"Mihai",normal,20,Failed,"Emercom Checkpoint","Emercom Checkpoint: Objective #2","1","16:32:20","16:32:38",
+Bot9,"Klinical",normal,78,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","16:32:22","16:32:30",
+Bot9,"Klinical",normal,78,Completed,"Emercom Checkpoint","Emercom Checkpoint: Objective #1","1","16:32:35","16:37:39",
+Bot9,"Klinical",normal,78,Pending,"Emercom Checkpoint","Emercom Checkpoint: Objective #2","1","16:37:44","N/A",
+Bot13,"Павлик Ловелас (Hobbes)",normal,4,Completed,"Kyshperski","Kyshperski: Objective #3","1","16:32:25","16:32:39",
