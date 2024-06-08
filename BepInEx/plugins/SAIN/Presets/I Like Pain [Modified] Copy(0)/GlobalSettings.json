@@ -183,7 +183,7 @@
     "BotSprintFirstTurnSpeed": 400.0
   },
   "NoBushESP": {
-    "NoBushESPToggle": true,
+    "NoBushESPToggle": false,
     "NoBushESPEnhanced": false,
     "NoBushESPFrequency": 0.1,
     "NoBushESPEnhancedRatio": 0.75,
