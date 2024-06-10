@@ -101,8 +101,8 @@
       "FrequentTaunt": true,
       "ConstantTaunt": true,
       "CanRespondToEnemyVoice": true,
-      "TauntFrequency": 1.0,
-      "TauntMaxDistance": 100.0,
+      "TauntFrequency": 4.0,
+      "TauntMaxDistance": 75.0,
       "CanFakeDeathRare": true,
       "FakeDeathChance": 6.0,
       "CanBegForLife": false

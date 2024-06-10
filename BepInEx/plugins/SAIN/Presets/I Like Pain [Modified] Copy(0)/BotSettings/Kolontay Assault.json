@@ -1,7 +1,7 @@
 {
   "Name": "Kolontay Assault",
   "WildSpawnType": "followerKolontayAssault",
-  "DifficultyModifier": 0.66,
+  "DifficultyModifier": 0.5,
   "Settings": {
     "easy": {
       "Aiming": {
@@ -27,7 +27,7 @@
       },
       "Change": {},
       "Core": {
-        "VisibleAngle": 170.0,
+        "VisibleAngle": 160.0,
         "VisibleDistance": 142.0,
         "GainSightCoef": 0.1,
         "ScatteringPerMeter": 0.045,
@@ -95,7 +95,7 @@
       "Shoot": {
         "RecoilMultiplier": 1.0,
         "BurstMulti": 1.25,
-        "FireratMulti": 1.62000012,
+        "FireratMulti": 1.35,
         "MaxPointFireDistance": 80.0,
         "CAN_STOP_SHOOT_CAUSE_ANIMATOR": true,
         "CHANCE_TO_CHANGE_TO_AUTOMATIC_FIRE_100": 100.0,
@@ -128,7 +128,7 @@
       },
       "Change": {},
       "Core": {
-        "VisibleAngle": 170.0,
+        "VisibleAngle": 160.0,
         "VisibleDistance": 142.0,
         "GainSightCoef": 0.1,
         "ScatteringPerMeter": 0.045,
@@ -196,7 +196,7 @@
       "Shoot": {
         "RecoilMultiplier": 1.0,
         "BurstMulti": 1.25,
-        "FireratMulti": 1.62000012,
+        "FireratMulti": 1.35,
         "MaxPointFireDistance": 80.0,
         "CAN_STOP_SHOOT_CAUSE_ANIMATOR": true,
         "CHANCE_TO_CHANGE_TO_AUTOMATIC_FIRE_100": 100.0,
@@ -229,7 +229,7 @@
       },
       "Change": {},
       "Core": {
-        "VisibleAngle": 170.0,
+        "VisibleAngle": 160.0,
         "VisibleDistance": 142.0,
         "GainSightCoef": 0.1,
         "ScatteringPerMeter": 0.045,
@@ -297,7 +297,7 @@
       "Shoot": {
         "RecoilMultiplier": 1.0,
         "BurstMulti": 1.25,
-        "FireratMulti": 1.62000012,
+        "FireratMulti": 1.35,
         "MaxPointFireDistance": 80.0,
         "CAN_STOP_SHOOT_CAUSE_ANIMATOR": true,
         "CHANCE_TO_CHANGE_TO_AUTOMATIC_FIRE_100": 100.0,
@@ -330,7 +330,7 @@
       },
       "Change": {},
       "Core": {
-        "VisibleAngle": 170.0,
+        "VisibleAngle": 160.0,
         "VisibleDistance": 142.0,
         "GainSightCoef": 0.1,
         "ScatteringPerMeter": 0.045,
@@ -398,7 +398,7 @@
       "Shoot": {
         "RecoilMultiplier": 1.0,
         "BurstMulti": 1.25,
-        "FireratMulti": 1.62000012,
+        "FireratMulti": 1.35,
         "MaxPointFireDistance": 80.0,
         "CAN_STOP_SHOOT_CAUSE_ANIMATOR": true,
         "CHANCE_TO_CHANGE_TO_AUTOMATIC_FIRE_100": 100.0,

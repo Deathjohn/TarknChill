@@ -1,9 +1,9 @@
 {
   "General": {
-    "GlobalDifficultyModifier": 1.35,
+    "GlobalDifficultyModifier": 1.0,
     "RandomSpeedHacker": false,
-    "PerformanceMode": false,
-    "NewDoorOpening": false,
+    "PerformanceMode": true,
+    "NewDoorOpening": true,
     "LimitAIvsAI": true,
     "LimitAIvsAIMaxAudioRange": 125.0,
     "LimitAIvsAIMaxAudioRangeVeryFar": 80.0,
@@ -24,7 +24,7 @@
     "MaxBotsToCheckVisionPerFrame": 3.0
   },
   "Aiming": {
-    "HeadShotProtection": false,
+    "HeadShotProtection": true,
     "HeadShotProtectionPMC": true,
     "PoseLevelScatterMulti": 0.8,
     "ProneScatterMulti": 0.7,
@@ -41,7 +41,7 @@
     "IronSightScaleDistanceStart": 50.0,
     "IronSightScaleDistanceEnd": 100.0,
     "CenterMassVal": 0.3125,
-    "AccuracySpreadMultiGlobal": 0.8,
+    "AccuracySpreadMultiGlobal": 1.0,
     "FasterCQBReactionsGlobal": true,
     "PMCSAimForHead": false
   },
@@ -131,8 +131,8 @@
     }
   },
   "Look": {
-    "GlobalVisionDistanceMultiplier": 1.33,
-    "GlobalVisionSpeedModifier": 0.8,
+    "GlobalVisionDistanceMultiplier": 1.0,
+    "GlobalVisionSpeedModifier": 1.0,
     "SprintingVisionModifier": 0.66,
     "MovementDistanceModifier": 1.5,
     "HighElevationMaxAngle": 60.0,
@@ -183,15 +183,15 @@
     "BotSprintFirstTurnSpeed": 400.0
   },
   "NoBushESP": {
-    "NoBushESPToggle": false,
+    "NoBushESPToggle": true,
     "NoBushESPEnhanced": false,
     "NoBushESPFrequency": 0.1,
     "NoBushESPEnhancedRatio": 0.75,
     "NoBushESPDebugMode": false
   },
   "Shoot": {
-    "GlobalScatterMultiplier": 0.85,
-    "GlobalRecoilMultiplier": 0.66,
+    "GlobalScatterMultiplier": 1.0,
+    "GlobalRecoilMultiplier": 1.0,
     "MaxRecoil": 2.0,
     "AddRecoil": -1.0,
     "RecoilDecay": 0.5,
@@ -302,11 +302,11 @@
     "DifficultyScaling": 0.2
   },
   "Talk": {
-    "TalkativeScavs": false,
+    "TalkativeScavs": true,
     "TalkativePMCs": false,
     "TalkativeRaidersRogues": true,
     "TalkativeBosses": true,
-    "TalkativeGoons": true,
+    "TalkativeGoons": false,
     "FriendlyReponseChance": 85.0,
     "FriendlyReponseChanceAI": 80.0,
     "FriendlyReponseDistance": 65.0,
