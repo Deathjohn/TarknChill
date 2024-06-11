@@ -1,6 +1,20 @@
 # sourced from https://github.com/IAMBUDE/mpt-client/blob/main/.gitignore, thank you!
 /*
-
+!EscapeFromTarkov_Data
+EscapeFromTarkov_Data/*
+!EscapeFromTarkov_Data/StreamingAssets
+EscapeFromTarkov_Data/StreamingAssets/*
+!EscapeFromTarkov_Data/StreamingAssets/Windows
+EscapeFromTarkov_Data/StreamingAssets/Windows/*
+!EscapeFromTarkov_Data/StreamingAssets/Windows/assets
+EscapeFromTarkov_Data/StreamingAssets/Windows/assets/*
+!EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets
+EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/*
+!EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects
+EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/*
+!EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies
+EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies/*
+!EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies/textures
 #Base files
 !.gitignore
 !README.md
@@ -12,7 +26,6 @@
 #Include BepInEx core
 !BepInEx
 BepInEx/*
-!EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies/textures
 
 # BepInEx Plugins 
 !BepInEx/plugins
