@@ -12,6 +12,7 @@
 #Include BepInEx core
 !BepInEx
 BepInEx/*
+!EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies/textures
 
 # BepInEx Plugins 
 !BepInEx/plugins
