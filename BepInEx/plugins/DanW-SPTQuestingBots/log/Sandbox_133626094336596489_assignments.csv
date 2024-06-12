@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot4,"Junko Space Mommy",normal,9,Pending,"Shooting Cans","Zone Sandbox_2_AGS_exploration","1","15:56:14","N/A",
+Bot2,"CharlieMike",normal,13,Pending,"TerraGroup Office Upstairs","TerraGroup Office Upstairs: Objective #5","1","15:56:14","N/A",
+Bot1,"Klinical",normal,13,Completed,"TerraGroup Office Upstairs","TerraGroup Office Upstairs: Objective #5","1","15:56:14","15:56:17",
+Bot1,"Klinical",normal,13,Completed,"TerraGroup Office Upstairs","TerraGroup Office Upstairs: Objective #4","1","15:56:23","15:56:40",
+Bot1,"Klinical",normal,13,Pending,"TerraGroup Office Upstairs","TerraGroup Office Upstairs: Objective #6","1","15:56:45","N/A",
+Bot3,"Cannuccia",normal,7,Completed,"Shooting Cans","Zone Sandbox_2_AGS_exploration","1","15:56:14","15:56:47",
+Bot3,"Cannuccia",normal,7,Active,"Shooting Cans","Zone Sandbox_2_Kord_exploration","1","15:56:52","N/A",
+Bot5,"Revingly",normal,10,Failed,"Capital Insight","Capital Insight: Objective #5","1","15:56:14","15:56:21",
