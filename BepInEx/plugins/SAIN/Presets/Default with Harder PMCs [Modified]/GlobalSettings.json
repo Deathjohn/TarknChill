@@ -2,7 +2,7 @@
   "General": {
     "GlobalDifficultyModifier": 1.0,
     "RandomSpeedHacker": false,
-    "PerformanceMode": true,
+    "PerformanceMode": false,
     "NewDoorOpening": true,
     "LimitAIvsAI": true,
     "LimitAIvsAIMaxAudioRange": 125.0,
