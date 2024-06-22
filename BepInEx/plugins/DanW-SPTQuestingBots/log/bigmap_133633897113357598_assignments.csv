@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot4,"Jeo",hard,5,Failed,"The Huntsman Path - Evil Watchman","Zone huntsman_020","1","16:38:27","16:41:10",
+Bot1,"aburiu",hard,6,Failed,"Big Red Rush","Big Red Rush: Objective #1","1","16:38:28","16:39:32",
+Bot2,"Victor_Two",normal,8,Failed,"BP Depot","Zone fuel2","1","16:38:28","16:41:39",
+Bot3,"IvanTheThicc",hard,2,Failed,"Dorms 3 Story Rush","Dorms 3 Story Rush: Objective #1","1","16:38:28","16:39:58",
+Bot11,"kova",hard,4,Pending,"Storage","Storage: Objective #5","1","16:38:28","N/A",
+Bot10,"Victor_Two",hard,6,Completed,"Big Red Rush","Big Red Rush: Objective #1","1","16:38:28","16:40:22",
+Bot10,"Victor_Two",hard,6,Completed,"Storage","Storage: Objective #2","1","16:40:27","16:40:57",
+Bot10,"Victor_Two",hard,6,Completed,"Storage","Storage: Objective #1","1","16:41:02","16:41:12",
+Bot10,"Victor_Two",hard,6,Completed,"Storage","Storage: Objective #3","1","16:41:17","16:41:38",
+Bot10,"Victor_Two",hard,6,Active,"Storage","Storage: Objective #4","1","16:41:43","N/A",

@@ -1,0 +1,8 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot2,"jonkler",hard,5,Active,"Saving the Mole","Zone Sandbox_5_DeadGroup_exploration","1","19:13:14","N/A",
+Bot1,"Valens",normal,9,Completed,"Saving the Mole","Zone Sandbox_5_DeadGroup_exploration","1","19:13:14","19:13:34",
+Bot1,"Valens",normal,9,Failed,"Saving the Mole","Item TerraGroup scientist's hard drive","1","19:13:40","19:14:42",
+Bot12,"Crackbone",easy,14,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","19:13:17","19:14:30",
+Bot13,"ThatGuyXIV",easy,17,Failed,"Stairs Near Tartowers","Stairs Near Tartowers: Objective #1","1","19:13:17","19:13:35",
+Bot14,"kova",easy,5,Failed,"Luxurious Life","Item Bottle of Le Jean wine","1","19:13:17","19:14:00",
+Bot15,"kova",easy,4,Failed,"Mira Avenue Benches","Mira Avenue Benches: Objective #2","1","19:13:17","19:13:41",
