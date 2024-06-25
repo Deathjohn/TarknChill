@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot22,"1nco",hard,14,Completed,"Shooting Cans","Zone Sandbox_2_AGS_exploration","1","12:40:22","12:40:54",
+Bot22,"1nco",hard,14,Failed,"Shooting Cans","Zone Sandbox_2_Kord_exploration","1","12:40:59","12:44:04",
+Bot29,"Goewert",hard,17,Completed,"Saving the Mole","Zone Sandbox_5_Office_exploration","1","12:40:24","12:41:29",
+Bot29,"Goewert",hard,17,Failed,"Saving the Mole","Zone Sandbox_5_Laborant_exploration","1","12:41:34","12:41:56",
+Bot29,"Goewert",hard,17,Completed,"Saving the Mole","Item TerraGroup scientist's hard drive","1","12:42:01","12:42:25",
+Bot29,"Goewert",hard,17,Completed,"Saving the Mole","Zone Sandbox_5_DeadGroup_exploration","1","12:42:31","12:42:56",
+Bot29,"Goewert",hard,17,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","12:43:01","12:44:09",
+Bot32,"Стёпа Глазастый (gasmo)",normal,1,Active,"Tarbank Upstairs","Tarbank Upstairs: Objective #2","1","12:46:29","N/A",

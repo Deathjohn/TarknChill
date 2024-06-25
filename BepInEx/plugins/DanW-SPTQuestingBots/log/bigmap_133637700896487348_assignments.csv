@@ -1,0 +1,13 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot4,"Алекс Скрипка (Paulov)",normal,1,Pending,"Dorms 2 Story","Dorms 2 Story: Objective #9","1","02:16:57","N/A",
+Bot1,"agavalda",easy,7,Completed,"Power Switch","Power Switch: Objective #1","2","02:16:57","02:17:20",
+Bot1,"agavalda",easy,7,Failed,"BP Depot","Zone fuel1","1","02:17:25","02:17:45",
+Bot1,"agavalda",easy,7,Active,"BP Depot","Zone fuel3","1","02:17:50","N/A",
+Bot2,"Glukhar_111",easy,12,Completed,"Golden Swag","Item Golden Zibbo lighter","1","02:16:57","02:18:28",
+Bot2,"Glukhar_111",easy,12,Failed,"Golden Swag","Zone extraction_zone_zibbo","1","02:18:33","02:19:15",
+Bot11,"Solarint",hard,14,Failed,"Tigr Safari","Zone place_peacemaker_002_N1","1","02:17:09","02:17:36",
+Bot11,"Solarint",hard,14,Pending,"Tigr Safari","Zone place_peacemaker_002_N2","1","02:17:41","N/A",
+Bot12,"Aki-chan",hard,18,Pending,"The Extortionist","Zone vremyan_case","1","02:17:09","N/A",
+Bot17,"Paulov",hard,6,Active,"Bad Rep Evidence","Item Secure Folder 0031","1","02:17:17","N/A",
+Bot18,"Nikita",hard,19,Pending,"Boss Hunter","Spawn Point (255.2 53.4 -27.0)","1","02:17:17","N/A",
+Bot19,"Fershte",hard,5,Pending,"BP Depot","Zone fuel2","1","02:17:17","N/A",
